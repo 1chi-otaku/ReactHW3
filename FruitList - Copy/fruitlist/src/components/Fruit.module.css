@@ -1,0 +1,6 @@
+.item{
+    padding: 20px;
+    border: 1px solid black;
+    background: white;
+    gap:16px;
+}
